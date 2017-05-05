@@ -1,0 +1,6 @@
+[05-May-2017 15:58:00 UTC] PHP Warning:  fileperms(): stat failed for /home/newpacif/public_html/index.php in /home/newpacif/public_html/wp-admin/includes/file.php on line 935
+[05-May-2017 16:00:01 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[05-May-2017 16:00:03 UTC] PHP Warning:  fileperms(): stat failed for /home/newpacif/public_html/index.php in /home/newpacif/public_html/wp-admin/includes/file.php on line 935
+[05-May-2017 19:04:16 UTC] PHP Warning:  fileperms(): stat failed for /home/newpacif/public_html/index.php in /home/newpacif/public_html/wp-admin/includes/file.php on line 935
+[05-May-2017 19:04:16 UTC] PHP Warning:  fileperms(): stat failed for /home/newpacif/public_html/index.php in /home/newpacif/public_html/wp-admin/includes/file.php on line 935
+[05-May-2017 19:04:32 UTC] PHP Warning:  fileperms(): stat failed for /home/newpacif/public_html/index.php in /home/newpacif/public_html/wp-admin/includes/file.php on line 935
